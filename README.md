@@ -13,4 +13,4 @@ If you find any bug, please submit an issue and we'll fix it
 as soon as possible!
 <br>
 Finally, you can access this version of the CCV system here:
-https://Renato776.github.com.io/ccv
+https://renato776.github.io/ccv
